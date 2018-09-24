@@ -30,7 +30,7 @@ JAVER_Assist是一个针对日本AV电影爱好者和收藏者所编写的小程
 
 ## 下载地址
 
-若想下载exe文件，请点击：[https://github.com/JAVERAssist/JAVER_Assist/releases](https://github.com/JAVERAssist/JAVER_Assist/releases)
+若想下载exe文件，请点击：[https://github.com/tywings/JAVER_Assist/releases](https://github.com/tywings/JAVER_Assist/releases)
 
 ## One More Thing
 
